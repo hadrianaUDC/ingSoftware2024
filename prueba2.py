@@ -19,4 +19,5 @@ def calcular_promedio():
 
 # Punto de entrada principal
 if __name__ == "__main__":
+    #Metodo principal
     calcular_promedio()
